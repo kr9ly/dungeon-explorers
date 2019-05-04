@@ -1,0 +1,19 @@
+<root>
+    <window width="200" height="100" left="10" top="370">
+    </window>
+
+    <window width="200" height="100" left="220" top="370">
+    </window>
+
+    <window width="200" height="100" left="430" top="370">
+    </window>
+
+    <text size="24" color="#FFFFFF" text="アレフ\nHP 100/100\nSP 10/10" left = "18" top="374">
+    </text>
+
+    <text size="24" color="#FFFFFF" text="ヒロコ\nHP 100/100\nSP 10/10" left = "228" top="374">
+    </text>
+
+    <text size="24" color="#FFFFFF" text="ベス\nHP 100/100\nSP 10/10" left = "438" top="374">
+    </text>
+</root>
